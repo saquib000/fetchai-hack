@@ -3,7 +3,7 @@ from instagrapi import Client
 def upload(file,username):
 	# Your Instagram credentials
 	username = username
-	password = "saquibashutosharshi"
+	password = "888888"
 
 	# Create a client instance
 	cl = Client()
