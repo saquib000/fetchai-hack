@@ -1,0 +1,15 @@
+{
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": "",
+    
+    "serviceAccount": "",
+    "databaseURL": "https://cloudfetchai-default-rtdb.firebaseio.com",
+
+
+    "stable_api_key": ""
+}
