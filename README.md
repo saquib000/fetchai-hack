@@ -1,4 +1,5 @@
 # fetchai-hack
+
 ## AI Model Creation from Prompt
 This repository demonstrates the process of creating an AI model from a prompt using Stable Diffusion.
 
