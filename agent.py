@@ -9,11 +9,11 @@ from ai_engine import UAgentResponse, UAgentResponseType
 
 import stable
 
-SEED_PHRASE = "Hire AI influencer agent 24d32"
+SEED_PHRASE = "Random seed"
 # Copy the address shown below
 print(f"Your agent's address is: {Agent(seed=SEED_PHRASE).address}")
 
-AGENT_MAILBOX_KEY = "5b3a681a-083e-407f-b9be-a3a334a7a4b4"
+AGENT_MAILBOX_KEY = "Generate your mailbox key"
 
 agent = Agent(
     name="Hire AI influencer",
