@@ -69,3 +69,11 @@ Once you've completed these steps, you'll have Firebase Cloud set up and ready t
 ### 3. Push to the branch (git push origin feature-branch). 
 ### 4. Open a Pull Request. 
 ### License This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+![App Screenshot](https://github.com/saquib000/fetchai-hack/blob/main/screenshots/deltav.jpeg)
+![App Screenshot](https://github.com/saquib000/fetchai-hack/blob/main/screenshots/deltav2.jpeg)
+![App Screenshot](https://github.com/saquib000/fetchai-hack/blob/main/screenshots/genAI_sample.png)
+![App Screenshot](https://github.com/saquib000/fetchai-hack/blob/main/screenshots/insta.jpeg)
+
+
