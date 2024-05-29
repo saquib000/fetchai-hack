@@ -1,7 +1,7 @@
 # fetchai-hack
-
+### NOTE: Put the API keys in config.json and for Firebase please refer to the video given.
 ## AI Model Creation from Prompt
-This repository demonstrates the process of creating an AI model from a prompt using Stable Diffusion.
+This repository demonstrates creating an AI model from a prompt using Stable Diffusion.
 
 ## Usage Clone the Repository
 
@@ -54,18 +54,8 @@ Firebase Cloud provides a powerful platform for developing and deploying web and
 6. Save the downloaded JSON file as serviceAccount.json in your project directory.
 Add Required Configurations
 
-### Install Firebase CLI:
-```bash
-Copy code
-npm install -g firebase-tools
-```
+### Setup Firebase:
 
-Initialize Firebase in your project directory:
-Copy code
-firebase init
-Follow the prompts to select Firebase features you want to use (e.g., Firestore, Hosting).
-
-When prompted, choose to use an existing project and select your Firebase project from the list.
 
 Refer to Video Tutorial
 
